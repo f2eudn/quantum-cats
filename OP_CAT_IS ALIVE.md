@@ -18,7 +18,7 @@ Quantum Proofing Bitcoin
 ------------------------
 
 *   **Focus:** Leveraging OP\_CAT with Lamport signatures to create quantum-resistant Bitcoin transactions.
-*   **Tech Insight:** Explores the synergy between OP\_CAT, Bitcoin's Taproot upgrade, and Schnorr signatures, aiming at enhanced security and transaction malleability.
+*   **Tech Insight:** Explores the synergy between OP\_CAT, Bitcoin's Taproot upgrade, and Schnorr signatures, aiming at enhanced security and transaction flexibility.
 
 Evaluating Soft Forks on Signet
 ---------------------
