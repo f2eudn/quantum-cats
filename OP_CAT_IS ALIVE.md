@@ -30,4 +30,4 @@ Evaluating Soft Forks on Signet
 Conclusion
 ----------
 
-In weighing the pros and cons of OP\_CAT, it's crucial to balance its potential to make Bitcoin 'magical' again, enhancing its functionality, with the need for simplicity, security, and broad community support. The decision about OP\_CAT should match what Bitcoin stands for at its core, while also looking ahead to what it could become in the futureaspirations.
+In weighing the pros and cons of OP\_CAT, it's crucial to balance its potential to make Bitcoin 'magical' again, enhancing its functionality, with the need for simplicity, security, and broad community support. The decision about OP\_CAT should match what Bitcoin stands for at its core, while also looking ahead to what it could become in the future.
